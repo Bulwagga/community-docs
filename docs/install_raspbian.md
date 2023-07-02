@@ -143,7 +143,7 @@ Enter the `Boot / Autologin` page.
 - Use the second option in the menu, `Console Autologin`.
   - This enables OVOS to start up automatically at boot time.
 
-Now we will enable a few interface options.  This will allow us to access our device from a `ssh shell` and prep the PI for other devices that may be used.  Some microphone hats require SPI, or I2C (Respeaker, AIY-Voicebonnet, etc).
+Now we will enable a few interface options.  This will prep the PI for other devices that may be used.  Some microphone hats require SPI, or I2C (Respeaker, AIY-Voicebonnet, etc).
 
 Go back to the main menu and enter the `Interface Options` page.
 
