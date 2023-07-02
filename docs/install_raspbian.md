@@ -178,7 +178,7 @@ There are some recommendations to use a venv for OVOS. This guide DOES NOT do th
 
 We will be cloning code from a git repository, so before starting we need to install git.
 
-`sudo apt install git`
+`sudo apt install -y git`
 
 We will also be installing everything to the user environment instead of system wide.  As ovos is the only user, this should be fine.
 
